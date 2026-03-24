@@ -1,0 +1,6 @@
+101|12-03-2026|Fever|Paracetamol
+202|12-03-2026|Cough|HH Linctus
+202|13-02-2026|Cold|Cough Medicine
+202|13-03-2026|Insomnia|Sleeping Pills
+104|12-03-2026|Cold|Paracetamol
+203|24-03-2026|Arthritis|NULL
